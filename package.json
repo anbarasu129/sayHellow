@@ -1,5 +1,5 @@
 {
-  "name": "say_hellow",
+  "name": "say_hellox",
   "version": "1.0.0",
   "description": "Test npm typescript package",
   "main": "dist/index.js",
