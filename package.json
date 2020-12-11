@@ -1,0 +1,25 @@
+{
+  "name": "say_hellow",
+  "version": "1.0.0",
+  "description": "Test npm typescript package",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbarasu129/say_hellow.git"
+  },
+  "keywords": [],
+  "author": "Anbu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anbarasu129/say_hellow/issues"
+  },
+  "homepage": "https://github.com/anbarasu129/say_hellow#readme"
+}
