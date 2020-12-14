@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/anbarasu129/say_hellow/issues"
   },
-  "homepage": "https://github.com/anbarasu129/say_hellow#readme"
+  "homepage": "https://github.com/anbarasu129/say_hellow#readme",
+  "dependencies": {
+    "@types/sleep": "0.0.8",
+    "sleep": "^6.3.0"
+  }
 }
