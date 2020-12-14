@@ -1,6 +1,6 @@
 {
   "name": "say_hellox",
-  "version": "1.0.0",
+  "version": "1.0.0001",
   "description": "Test npm typescript package",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
